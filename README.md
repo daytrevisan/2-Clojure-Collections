@@ -15,3 +15,8 @@
 ### Aula 3 - Other functions with maps
 - Maps;
 - Grouping
+
+### Aula 4 - Order and Sorting
+- Sorting, reverse, pure function logic;
+- First, second, nth, get in list, take;
+- Some
